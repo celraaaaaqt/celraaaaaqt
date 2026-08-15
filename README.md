@@ -15,13 +15,6 @@ I enjoy building applications that combine clean, user-friendly interfaces with 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 Technical Interests
-
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js
-* **Database:** MySQL
-* **Tools:** Git, GitHub, VS Code
-* **Development:** REST APIs, CRUD applications, web applications
 
 ### 🚀 What I Do
 
@@ -39,6 +32,14 @@ I'm continuously improving my knowledge of:
 * Database design and management
 * JavaScript and Node.js
 * Software development best practices
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celraaaaaqt&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celraaaaaqt&layout=compact&theme=dark)
+
+---
 
 ### 🎯 Goals
 
