@@ -54,6 +54,18 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Celraaaaaqt&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/Celraaaaaqt)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Celraaaaaqt&theme=dark)
+
+---
+
 ### 🎯 Goals
 
 My goal is to become a capable and well-rounded **Full-Stack Developer** who can design, develop, and maintain reliable applications.
