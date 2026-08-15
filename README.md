@@ -60,6 +60,12 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
+## 🟩 Contributions
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/Celraaaaaqt)
+
+---
+
 ### 🎯 Goals
 
 My goal is to become a capable and well-rounded **Full-Stack Developer** who can design, develop, and maintain reliable applications.
