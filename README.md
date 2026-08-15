@@ -54,14 +54,6 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Celraaaaaqt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Celraaaaaqt)
