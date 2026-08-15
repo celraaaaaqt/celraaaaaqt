@@ -62,7 +62,7 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Celraaaaaqt&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Celraaaaaqt)
 
 ---
 
