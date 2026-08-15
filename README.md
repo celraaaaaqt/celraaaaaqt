@@ -22,17 +22,6 @@ I focus on turning ideas into functional applications while strengthening my und
 
 I'm particularly interested in developing my skills across the **full web development stack**, from designing interfaces to building backend services and managing databases.
 
-### 📚 Currently Learning
-
-I'm continuously improving my knowledge of:
-
-* Full-stack web development
-* Backend architecture
-* RESTful API development
-* Database design and management
-* JavaScript and Node.js
-* Software development best practices
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celraaaaaqt&show_icons=true&theme=dark)
