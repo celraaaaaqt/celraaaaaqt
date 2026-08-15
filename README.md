@@ -24,11 +24,9 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celraaaaaqt&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celraaaaaqt&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=Celraaaaaqt&color=blue)
 
 ---
 
