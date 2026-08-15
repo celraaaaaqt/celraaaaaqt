@@ -7,6 +7,8 @@ I'm an aspiring **Full-Stack Developer** interested in building web applications
 - 🚀 Building projects to improve my development skills
 - 🧠 Interested in backend development, APIs, and databases
 
+---
+
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
