@@ -22,6 +22,8 @@ I focus on turning ideas into functional applications while strengthening my und
 
 I'm particularly interested in developing my skills across the **full web development stack**, from designing interfaces to building backend services and managing databases.
 
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celraaaaaqt&show_icons=true&theme=dark)
