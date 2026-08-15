@@ -48,9 +48,9 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
-## 👀 Profile Views
+## 📈 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=Celraaaaaqt&color=blue)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Celraaaaaqt&theme=github-compact)
 
 ---
 
