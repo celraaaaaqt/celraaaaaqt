@@ -1,8 +1,11 @@
 ## 👋 About Me
 
-Hello! I'm **Celra**, an aspiring **Full-Stack Developer | Software Engineer** with a strong interest in web development, backend systems, and software engineering.
+I'm an aspiring **Full-Stack Developer** interested in building web applications and learning modern software development.
 
-I enjoy building applications that combine clean, user-friendly interfaces with reliable backend functionality. I am continuously developing my technical skills through hands-on projects, experimentation, and consistent learning.
+- 💻 Focused on Full-Stack Web Development
+- 🌱 Currently learning JavaScript, Node.js, Express.js, and MySQL
+- 🚀 Building projects to improve my development skills
+- 🧠 Interested in backend development, APIs, and databases
 
 ## 💻 Tech Stack
 
@@ -15,6 +18,7 @@ I enjoy building applications that combine clean, user-friendly interfaces with 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ### 🚀 What I Do
 
