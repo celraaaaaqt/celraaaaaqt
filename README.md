@@ -41,7 +41,7 @@ I'm an aspiring **Full-Stack Developer** interested in building web applications
 
 ---
 
-### 🚀 What I Do
+## 🚀 What I Do
 
 I focus on turning ideas into functional applications while strengthening my understanding of software development fundamentals. I enjoy working through technical challenges, debugging applications, and finding practical solutions to problems.
 
@@ -52,12 +52,6 @@ I'm particularly interested in developing my skills across the **full web develo
 ## 📈 GitHub Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Celraaaaaqt&theme=github-compact)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Celraaaaaqt)
 
 ---
 
