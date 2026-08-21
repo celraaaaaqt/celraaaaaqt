@@ -3,7 +3,7 @@
 I'm an aspiring **Full-Stack Developer** interested in building web applications and learning modern software development.
 
 - 💻 Focused on Full-Stack Web Development
-- 🌱 Currently learning JavaScript, Node.js, Express.js, and MySQL
+- 🌱 Currently learning JavaScript, Node.js, Express.js, Vite, and MySQL
 - 🚀 Building projects to improve my development skills
 - 🧠 Interested in backend development, system architectures, APIs, and databases
 
