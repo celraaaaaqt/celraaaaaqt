@@ -67,3 +67,4 @@ My goal is to become a capable and well-rounded **Full-Stack Developer** who can
 I believe that strong developers are built through **consistent learning, practical experience, and continuous improvement**.
 
 > **Build with purpose. Learn continuously. Improve consistently.**
+> **Tasha
