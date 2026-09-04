@@ -48,12 +48,6 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Celraaaaaqt&theme=github-compact)
-
----
-
 ## 🟩 Contributions
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/Celraaaaaqt)
