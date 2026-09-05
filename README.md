@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I'm an aspiring **Full-Stack Developer** interested in building web applications and learning modern software development.
+I'm an aspiring **Full-Stack Developer** and interested in building web applications, cross-platform applications, and learning modern software development. 
 
 - 💻 Focused on Full-Stack Web Development
 - 🌱 Currently learning JavaScript, Node.js ( I used bun.js now ), Express.js, Vite, and MySQL
