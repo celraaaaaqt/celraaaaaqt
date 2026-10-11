@@ -2,7 +2,7 @@
 
 I'm an aspiring **Full-Stack Developer** and interested in building web applications, cross-platform applications, and learning modern software development. 
 
-- 💻 Focused on Full-Stack Web Development
+- 💻 Focused on Full-Stack Web Development AI-Assisted Development for fast and efficient systems. 
 - 🌱 Currently learning JavaScript, Node.js ( I used bun.js now ), Express.js, Vite, PocketBase, SupaBase, and MySQL
 - 🚀 Building projects to improve my development skills
 - 🧠 Interested in backend development, system architectures, APIs, and databases
