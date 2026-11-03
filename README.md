@@ -56,7 +56,7 @@ I'm particularly interested in developing my skills across the **full web develo
 
 ### 🎯 Goals
 
-My goal is to become a capable and well-rounded **Full-Stack Developer** who can design, develop, and maintain reliable applications.
+My goal is to become a capable and well-rounded **Full-Stack Software Engineer** who can design, develop, and maintain reliable applications.
 
 I believe that strong developers are built through **consistent learning, practical experience, and continuous improvement**. That is my way of learning.
 
